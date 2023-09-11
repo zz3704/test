@@ -1,3 +1,12 @@
 week03
 -week02 review
 -git command: git pull
+
+
+mkdir week2
+cd week2
+go mod init week2
+(mv test.go main.go)
+go run main.go
+.
+k
