@@ -1,0 +1,3 @@
+week01
+- orientaion, vcs
+- git, github, go programming language
