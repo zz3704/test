@@ -9,3 +9,4 @@ go mod init week2
 (mv test.go main.go)
 go run main.go
 .
+k
